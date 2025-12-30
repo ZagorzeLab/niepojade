@@ -1,0 +1,46 @@
+name: Deploy Next.js to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+    
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm ci
+      - run: npm run build
+
+      # DEBUG – pokaż co faktycznie idzie na Pages
+      - run: |
+          echo "=== ROOT ==="
+          ls -la
+          echo "=== OUT ==="
+          ls -la out
+
+      - run: echo "www.niepojade.pl" > out/CNAME
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./out
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+
+    steps:
+      - uses: actions/deploy-pages@v4
