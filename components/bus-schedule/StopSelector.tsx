@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react"
+import React, { useEffect, useRef, useState, useMemo } from "react"
 import { Card } from "@/components/ui/card"
 import { MapPin, Search } from "lucide-react"
 
@@ -19,7 +19,13 @@ type Props = {
     stopDropdownWrapperRef: React.RefObject<HTMLDivElement | null>
 }
 
-export default function StopSelector({ stops, selectedStopIndex, setSelectedStopIndex, stopSearch, setStopSearch, isStopDropdownOpen, setIsStopDropdownOpen, stopDropdownWrapperRef }: Props) {
+function StopSelectorInner({ stops, selectedStopIndex, setSelectedStopIndex, stopSearch, setStopSearch, isStopDropdownOpen, setIsStopDropdownOpen, stopDropdownWrapperRef }: Props) {
+    const stopIdToIndex = useMemo(() => {
+        const map = new Map<string, number>()
+        stops.forEach((s, i) => map.set(s.id, i))
+        return map
+    }, [stops])
+
     const filteredStops = stopSearch ? stops.filter((s) => s.name.toLowerCase().includes(stopSearch.toLowerCase())) : stops
     const searchInputRef = useRef<HTMLInputElement | null>(null)
     const toggleButtonRef = useRef<HTMLButtonElement | null>(null)
@@ -67,8 +73,8 @@ export default function StopSelector({ stops, selectedStopIndex, setSelectedStop
                 } else if (e.key === "Enter") {
                     if (activeIndex >= 0) {
                         const targetStop = filteredStops[activeIndex]
-                        const realIndex = stops.findIndex((s) => s.id === targetStop.id)
-                        if (realIndex >= 0) {
+                        const realIndex = stopIdToIndex.get(targetStop.id)
+                        if (realIndex !== undefined) {
                             setSelectedStopIndex(realIndex)
                             setIsStopDropdownOpen(false)
                             setStopSearch("")
@@ -101,9 +107,8 @@ export default function StopSelector({ stops, selectedStopIndex, setSelectedStop
 
                     <div className="overflow-y-auto max-h-[320px]">
                         {filteredStops.length > 0 ? (
-                            filteredStops.map((stop) => {
-                                const stopIndex = stops.findIndex((s) => s.id === stop.id)
-                                const idx = filteredStops.indexOf(stop)
+                            filteredStops.map((stop, idx) => {
+                                const stopIndex = stopIdToIndex.get(stop.id) ?? -1
                                 return (
                                     <button
                                         key={stop.id}
@@ -142,3 +147,6 @@ export default function StopSelector({ stops, selectedStopIndex, setSelectedStop
         </Card>
     )
 }
+
+const StopSelector = React.memo(StopSelectorInner)
+export default StopSelector

@@ -1,0 +1,2233 @@
+[
+  {
+    "id": "1",
+    "name": "Chobot Kapliczka",
+    "lat": 50.073577895,
+    "lng": 20.347477385,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Staniątki Ościeżnica",
+    "lat": 50.001970287,
+    "lng": 20.190871339,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Staniątki Ościeżnica",
+    "lat": 50.002049511,
+    "lng": 20.190737578,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Staniątki PKP",
+    "lat": 50.010423025,
+    "lng": 20.204849123,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Staniątki PKP",
+    "lat": 50.010369698,
+    "lng": 20.205102687,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Niepołomice Czerwonych Beretów",
+    "lat": 50.024700202,
+    "lng": 20.20757129,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Suchoraba Mazówka",
+    "lat": 49.972978812,
+    "lng": 20.201393744,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Niepołomice Czerwonych Beretów",
+    "lat": 50.024187556,
+    "lng": 20.206934819,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Suchoraba Mazówka",
+    "lat": 49.972775029,
+    "lng": 20.201841993,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Suchoraba Szkoła",
+    "lat": 49.97742805305731,
+    "lng": 20.19741273568556,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Suchoraba Szkoła",
+    "lat": 49.97700561888309,
+    "lng": 20.197245344685346,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Wola Batorska Borek",
+    "lat": 50.05453504786027,
+    "lng": 20.296845812869805,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Wola Batorska Borek",
+    "lat": 50.052863916,
+    "lng": 20.294969109,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Wola Batorska Dąbrówka",
+    "lat": 50.064770216,
+    "lng": 20.279122302,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Wola Batorska Dąbrówka",
+    "lat": 50.065018598,
+    "lng": 20.279621559,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Wola Batorska Leśniczówka",
+    "lat": 50.046175764,
+    "lng": 20.316016469,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Niepołomice Diesla",
+    "lat": 50.0338297,
+    "lng": 20.1890073,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Wola Batorska Leśniczówka",
+    "lat": 50.046234336,
+    "lng": 20.315616658,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Wola Batorska Mikoniowiec",
+    "lat": 50.057595015,
+    "lng": 20.298285373,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Wola Batorska Mikoniowiec",
+    "lat": 50.058835032069254,
+    "lng": 20.29886509139172,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Wola Batorska Mleczarnia",
+    "lat": 50.067357193,
+    "lng": 20.28912934,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Wola Batorska Mleczarnia",
+    "lat": 50.067462608,
+    "lng": 20.289257515,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Wola Batorska Staw",
+    "lat": 50.065756715,
+    "lng": 20.295076461,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Wola Batorska Staw",
+    "lat": 50.065756645033446,
+    "lng": 20.295390050477465,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Niepołomice Diesla",
+    "lat": 50.0339573,
+    "lng": 20.1883502,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Wola Batorska Zamoglice",
+    "lat": 50.06298035,
+    "lng": 20.299433578,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Wola Batorska Zamoglice",
+    "lat": 50.06298137549754,
+    "lng": 20.299805385999377,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Wola Zabierzowska",
+    "lat": 50.071055316,
+    "lng": 20.333490525,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "145",
+    "name": "Wola Zabierzowska",
+    "lat": 50.071084492,
+    "lng": 20.333614201,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "146",
+    "name": "Wola Zabierzowska Kedarix",
+    "lat": 50.082077251,
+    "lng": 20.331014527,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Wola Zabierzowska Kedarix",
+    "lat": 50.082253337,
+    "lng": 20.330536002,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Wola Zabierzowska Nowa Wieś",
+    "lat": 50.086627191,
+    "lng": 20.321283091,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Wola Zabierzowska Nowa Wieś",
+    "lat": 50.086724033,
+    "lng": 20.320793986,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Niepołomice Diesla MAN",
+    "lat": 50.0306506,
+    "lng": 20.1793056,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "150",
+    "name": "Wola Zabierzowska Szkoła",
+    "lat": 50.079604706,
+    "lng": 20.330850328,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Wola Zabierzowska Szkoła",
+    "lat": 50.079615589,
+    "lng": 20.331031167,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Wola Zabierzowska Tartak",
+    "lat": 50.073654567,
+    "lng": 20.330403199,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "153",
+    "name": "Wola Zabierzowska Tartak",
+    "lat": 50.073474795,
+    "lng": 20.330677042,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "154",
+    "name": "Zabierzów Bocheński Bobrowe Rozlewisko",
+    "lat": 50.054524459,
+    "lng": 20.324861252,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "155",
+    "name": "Zabierzów Bocheński Bobrowe Rozlewisko",
+    "lat": 50.055225889,
+    "lng": 20.325249093,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "156",
+    "name": "Zabierzów Bocheński Cmentarz",
+    "lat": 50.050732053,
+    "lng": 20.322240245,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "157",
+    "name": "Zabierzów Bocheński Cmentarz",
+    "lat": 50.051153029,
+    "lng": 20.32244461,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "158",
+    "name": "Zabierzów Bocheński Kościół",
+    "lat": 50.058550508,
+    "lng": 20.329425145,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "159",
+    "name": "Zabierzów Bocheński Kościół",
+    "lat": 50.058626986,
+    "lng": 20.3293691,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Niepołomice Diesla MAN",
+    "lat": 50.0301358,
+    "lng": 20.1783809,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "160",
+    "name": "Zabierzów Bocheński OSP",
+    "lat": 50.068174647,
+    "lng": 20.318158182,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "161",
+    "name": "Zabierzów Bocheński OSP",
+    "lat": 50.067198839,
+    "lng": 20.318572739,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "162",
+    "name": "Zabierzów Bocheński Rezerwat Koło",
+    "lat": 50.084638552,
+    "lng": 20.317740588,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "163",
+    "name": "Zabierzów Bocheński Rezerwat Koło",
+    "lat": 50.084925815,
+    "lng": 20.317768659,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "164",
+    "name": "Zabierzów Bocheński św. Jana",
+    "lat": 50.06551039405167,
+    "lng": 20.32476897351444,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "165",
+    "name": "Zabierzów Bocheński św. Jana",
+    "lat": 50.065691967111704,
+    "lng": 20.324222721665652,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "166",
+    "name": "Zabierzów Bocheński Winnica",
+    "lat": 50.077639753,
+    "lng": 20.315338199,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "167",
+    "name": "Zabierzów Bocheński Winnica",
+    "lat": 50.078014936,
+    "lng": 20.315196924,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Niepołomice Droga Królewska - Myśliwska",
+    "lat": 50.02928799433812,
+    "lng": 20.23198483869564,
+    "lines": [
+      "T2",
+      "T1"
+    ]
+  },
+  {
+    "id": "173",
+    "name": "Zagórze Zachód",
+    "lat": 49.993957308,
+    "lng": 20.182532182,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "175",
+    "name": "Zagórze Zachód",
+    "lat": 49.99376834,
+    "lng": 20.183003667,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "178",
+    "name": "Zagórze Ogrody",
+    "lat": 49.993143351,
+    "lng": 20.18559133,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "179",
+    "name": "Zagórze Ogrody",
+    "lat": 49.993068209,
+    "lng": 20.185914727,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Niepołomice Droga Królewska - Myśliwska",
+    "lat": 50.02939149454383,
+    "lng": 20.231933057102022,
+    "lines": [
+      "T2",
+      "T1"
+    ]
+  },
+  {
+    "id": "180",
+    "name": "Zagórze Siedliska",
+    "lat": 49.989975254,
+    "lng": 20.189067187,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "181",
+    "name": "Zagórze Siedliska",
+    "lat": 49.989178778,
+    "lng": 20.188808704,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "182",
+    "name": "Zagórze Szkoła",
+    "lat": 49.99238664412576,
+    "lng": 20.188447738318985,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "183",
+    "name": "Zagórze Szkoła",
+    "lat": 49.992211127,
+    "lng": 20.189105441,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "184",
+    "name": "Zakrzowiec Drukarnia",
+    "lat": 50.002954407,
+    "lng": 20.167107806,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "185",
+    "name": "Zakrzowiec Drukarnia",
+    "lat": 50.003076854,
+    "lng": 20.167425178,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "186",
+    "name": "Zakrzowiec Kapliczka",
+    "lat": 50.001450023,
+    "lng": 20.156289618,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "187",
+    "name": "Zakrzowiec Kapliczka",
+    "lat": 50.001451219,
+    "lng": 20.155626134,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Niepołomice Dworzec",
+    "lat": 50.038175388,
+    "lng": 20.216296966,
+    "lines": [
+      "T2",
+      "T4",
+      "T1",
+      "T5",
+      "T3"
+    ]
+  },
+  {
+    "id": "190",
+    "name": "Zakrzów Krzyż",
+    "lat": 50.001404006,
+    "lng": 20.147590125,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "191",
+    "name": "Zakrzów Krzyż",
+    "lat": 50.001443624,
+    "lng": 20.147927225,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "192",
+    "name": "Niepołomice Podgrabie OSP",
+    "lat": 50.038213,
+    "lng": 20.149726,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Chobot Kapliczka",
+    "lat": 50.073704985,
+    "lng": 20.345533053,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "201",
+    "name": "Niepołomice Akacjowa",
+    "lat": 50.045567577,
+    "lng": 20.215138421,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "202",
+    "name": "Niepołomice Aleja Dębowa",
+    "lat": 50.025074417,
+    "lng": 20.216750382,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "203",
+    "name": "Niepołomice Aleja Dębowa",
+    "lat": 50.025159459,
+    "lng": 20.216649119,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "204",
+    "name": "Niepołomice Bocheńska",
+    "lat": 50.0300721911691,
+    "lng": 20.222266896506767,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "205",
+    "name": "Niepołomice Bocheńska",
+    "lat": 50.030107115,
+    "lng": 20.221894274,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "206",
+    "name": "Niepołomice Cmentarz",
+    "lat": 50.029107273,
+    "lng": 20.213530513,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "207",
+    "name": "Niepołomice Cmentarz",
+    "lat": 50.029171026,
+    "lng": 20.213671731,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "208",
+    "name": "Niepołomice Grunwaldzka",
+    "lat": 50.033123097,
+    "lng": 20.20723754,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "209",
+    "name": "Niepołomice Grunwaldzka",
+    "lat": 50.03304729,
+    "lng": 20.206596492,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "210",
+    "name": "Niepołomice Kopiec Grunwaldzki",
+    "lat": 50.031677194,
+    "lng": 20.201805609,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "211",
+    "name": "Niepołomice Kopiec Grunwaldzki",
+    "lat": 50.031728882,
+    "lng": 20.201711732,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "212",
+    "name": "Niepołomice Modrzejewskiej",
+    "lat": 50.026744251,
+    "lng": 20.220841711,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "213",
+    "name": "Niepołomice Modrzejewskiej",
+    "lat": 50.02675459,
+    "lng": 20.220530571,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "214",
+    "name": "Niepołomice Osiedle Wimmera",
+    "lat": 50.030376345,
+    "lng": 20.195443409,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "215",
+    "name": "Niepołomice Osiedle Wimmera",
+    "lat": 50.031065541,
+    "lng": 20.195915478,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "216",
+    "name": "Niepołomice Pływalnia",
+    "lat": 50.029426357,
+    "lng": 20.219696216,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "217",
+    "name": "Niepołomice Pływalnia",
+    "lat": 50.030209312,
+    "lng": 20.220884513,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "218",
+    "name": "Niepołomice Sikorskiego",
+    "lat": 50.02837887698544,
+    "lng": 20.2249283176601,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "219",
+    "name": "Niepołomice Sikorskiego",
+    "lat": 50.0282926947856,
+    "lng": 20.2246596917839,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Niepołomice Jazy",
+    "lat": 50.043640016,
+    "lng": 20.240048459,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "220",
+    "name": "Niepołomice Sitowiec",
+    "lat": 50.035419475,
+    "lng": 20.272738981,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "221",
+    "name": "Niepołomice Sitowiec",
+    "lat": 50.035557297,
+    "lng": 20.273221795,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "222",
+    "name": "Niepołomice Suszówka SP4",
+    "lat": 50.037662112,
+    "lng": 20.246571019,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "224",
+    "name": "Niepołomice Wimmera-Kwiatkowskiego",
+    "lat": 50.02792962193786,
+    "lng": 20.192956062761795,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "225",
+    "name": "Niepołomice Wimmera-Kwiatkowskiego",
+    "lat": 50.026806155,
+    "lng": 20.191709774,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "226",
+    "name": "Niepołomice Wrzosowa",
+    "lat": 50.027308379,
+    "lng": 20.209550115,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "227",
+    "name": "Niepołomice Wrzosowa",
+    "lat": 50.02708782,
+    "lng": 20.209303351,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "228",
+    "name": "Ochmanów",
+    "lat": 49.9985832413212,
+    "lng": 20.131420355688675,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "229",
+    "name": "Ochmanów Most",
+    "lat": 49.9994204518033,
+    "lng": 20.137056351357643,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Niepołomice Jazy",
+    "lat": 50.043208613,
+    "lng": 20.236906989,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "231",
+    "name": "Ochmanów Oknoplast",
+    "lat": 50.00223341583745,
+    "lng": 20.12675475813319,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "232",
+    "name": "Podłęże Centrum",
+    "lat": 50.014310855,
+    "lng": 20.171413545,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "233",
+    "name": "Podłęże Centrum",
+    "lat": 50.014204324,
+    "lng": 20.170678636,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "234",
+    "name": "Podłęże Cmentarz",
+    "lat": 50.009103076303944,
+    "lng": 20.17100301657527,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "235",
+    "name": "Podłęże Cmentarz",
+    "lat": 50.00891786116435,
+    "lng": 20.1704720863043,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "236",
+    "name": "Podłęże GLP",
+    "lat": 50.021281804,
+    "lng": 20.18619817,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "237",
+    "name": "Podłęże GLP",
+    "lat": 50.020653748,
+    "lng": 20.18534747,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "238",
+    "name": "Podłęże Ośrodek Zdrowia",
+    "lat": 50.011368784,
+    "lng": 20.172248467,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "239",
+    "name": "Podłęże Ośrodek Zdrowia",
+    "lat": 50.011644573,
+    "lng": 20.172280653,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "240",
+    "name": "Podłęże Szkoła",
+    "lat": 50.0131924,
+    "lng": 20.167254191,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "241",
+    "name": "Podłęże Szkoła",
+    "lat": 50.013226878,
+    "lng": 20.166733845,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "242",
+    "name": "Staniątki Biały Ogród",
+    "lat": 50.003694537,
+    "lng": 20.202088832,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "243",
+    "name": "Staniątki Biały Ogród",
+    "lat": 50.004359833,
+    "lng": 20.202382458,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "244",
+    "name": "Staniątki Estakada",
+    "lat": 50.010792253,
+    "lng": 20.20745121,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "245",
+    "name": "Staniątki Estakada",
+    "lat": 50.011629965,
+    "lng": 20.208100305,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "246",
+    "name": "Staniątki Jana Pawła II",
+    "lat": 50.009782161,
+    "lng": 20.205705512,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "247",
+    "name": "Staniątki Jana Pawła II",
+    "lat": 50.00998763,
+    "lng": 20.205821093,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "248",
+    "name": "Staniątki Jodłowa",
+    "lat": 50.01373541047104,
+    "lng": 20.213833040866945,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "249",
+    "name": "Staniątki Jodłowa",
+    "lat": 50.01377505334352,
+    "lng": 20.21353625508837,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Niepołomice Kolejowa - Wimmera",
+    "lat": 50.044185254,
+    "lng": 20.212154998,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "250",
+    "name": "Staniątki Kapliczka",
+    "lat": 50.007353469,
+    "lng": 20.203483752,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "251",
+    "name": "Staniątki Kapliczka",
+    "lat": 50.007580006,
+    "lng": 20.203423984,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "252",
+    "name": "Staniątki Klasztor",
+    "lat": 50.00940040495087,
+    "lng": 20.190926077891504,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "253",
+    "name": "Staniątki Klasztor",
+    "lat": 50.007616447,
+    "lng": 20.193214943,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "254",
+    "name": "Staniątki Krzyż",
+    "lat": 50.0101682649381,
+    "lng": 20.199291792032255,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "255",
+    "name": "Staniątki Krzyż",
+    "lat": 50.010133469286615,
+    "lng": 20.19876154119646,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "256",
+    "name": "Staniątki Sklep",
+    "lat": 50.001564449,
+    "lng": 20.198620191,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "257",
+    "name": "Staniątki Sklep",
+    "lat": 50.00161617,
+    "lng": 20.198936692,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "258",
+    "name": "Staniątki Szkoła",
+    "lat": 50.011001681237616,
+    "lng": 20.19416373413509,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "259",
+    "name": "Staniątki Szkoła",
+    "lat": 50.01100538,
+    "lng": 20.193914473,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Niepołomice Kolejowa - Wimmera",
+    "lat": 50.043866152,
+    "lng": 20.212317327,
+    "lines": [
+      "T2",
+      "T3"
+    ]
+  },
+  {
+    "id": "260",
+    "name": "Staniątki Wiadukt",
+    "lat": 50.016463529,
+    "lng": 20.180712927,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "261",
+    "name": "Staniątki Wiadukt",
+    "lat": 50.015763532,
+    "lng": 20.177381654,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "262",
+    "name": "Staniątki Wiadukt (południe)",
+    "lat": 50.015673518,
+    "lng": 20.178896907,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "263",
+    "name": "Staniątki Wiadukt (południe)",
+    "lat": 50.015680762,
+    "lng": 20.178677759,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "266",
+    "name": "Staniątki Wyszyńskiego",
+    "lat": 50.00571488315518,
+    "lng": 20.19223454181946,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "267",
+    "name": "Staniątki Wyszyńskiego",
+    "lat": 50.005092,
+    "lng": 20.192252,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "268",
+    "name": "Suchoraba",
+    "lat": 49.980615033,
+    "lng": 20.197916793,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "269",
+    "name": "Suchoraba Boisko",
+    "lat": 49.97696863264463,
+    "lng": 20.191673729238374,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "270",
+    "name": "Suchoraba Cmentarz",
+    "lat": 49.976018,
+    "lng": 20.186991,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "271",
+    "name": "Wola Batorska Borek Południe",
+    "lat": 50.047363353,
+    "lng": 20.306018442,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "272",
+    "name": "Wola Batorska Borek Południe",
+    "lat": 50.046945862,
+    "lng": 20.306558599,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "273",
+    "name": "Wola Batorska Kępa",
+    "lat": 50.058790767,
+    "lng": 20.256370557,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "274",
+    "name": "Wola Batorska Kępa",
+    "lat": 50.059253120841106,
+    "lng": 20.256826975405403,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "275",
+    "name": "Wola Batorska Ruskie",
+    "lat": 50.05323654133372,
+    "lng": 20.259114806241655,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "276",
+    "name": "Wola Batorska Ruskie",
+    "lat": 50.053117686,
+    "lng": 20.257545292,
+    "lines": [
+      "T2",
+      "T1"
+    ]
+  },
+  {
+    "id": "277",
+    "name": "Wola Batorska SKR",
+    "lat": 50.047765691,
+    "lng": 20.265982738,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "278",
+    "name": "Wola Batorska SKR",
+    "lat": 50.04895072,
+    "lng": 20.266079304,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "279",
+    "name": "Wola Batorska Tarnówka",
+    "lat": 50.06786037084032,
+    "lng": 20.260862047745174,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "280",
+    "name": "Wola Batorska Tarnówka",
+    "lat": 50.06801191649731,
+    "lng": 20.26126572673604,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "281",
+    "name": "Wola Batorska Wychylówka",
+    "lat": 50.06615755741453,
+    "lng": 20.272629145640735,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "282",
+    "name": "Wola Batorska Wychylówka",
+    "lat": 50.066372515435376,
+    "lng": 20.272486797166323,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "283",
+    "name": "Wola Batorska Żwirownia",
+    "lat": 50.05208009989502,
+    "lng": 20.26611457485157,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "284",
+    "name": "Wola Batorska Żwirownia",
+    "lat": 50.052771417,
+    "lng": 20.265609351,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "285",
+    "name": "Zagórze",
+    "lat": 49.986016536,
+    "lng": 20.188323343,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "286",
+    "name": "Zagórze",
+    "lat": 49.9857380601936,
+    "lng": 20.188295070224346,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "287",
+    "name": "Zagórze DK94",
+    "lat": 49.985270534212674,
+    "lng": 20.189536935234884,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "288",
+    "name": "Zagórze Instalbud",
+    "lat": 49.984266954,
+    "lng": 20.179665239,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "289",
+    "name": "Zagórze Kapliczka",
+    "lat": 49.976016593,
+    "lng": 20.181040005,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Niepołomice Młyńska SP2",
+    "lat": 50.034972409,
+    "lng": 20.212165366,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "290",
+    "name": "Zagórze Neox",
+    "lat": 49.979327662,
+    "lng": 20.179736494,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "291",
+    "name": "Zakrzowiec Osiedle",
+    "lat": 50.004882304,
+    "lng": 20.159868188,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "292",
+    "name": "Zakrzowiec Osiedle",
+    "lat": 50.00499827608891,
+    "lng": 20.159749224404976,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "293",
+    "name": "Zakrzowiec OSP",
+    "lat": 50.002393851,
+    "lng": 20.161726955,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "294",
+    "name": "Zakrzowiec OSP",
+    "lat": 50.002306378,
+    "lng": 20.160871368,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "295",
+    "name": "Zakrzowiec OSP",
+    "lat": 50.002425922233726,
+    "lng": 20.16043986915008,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "296",
+    "name": "Zakrzowiec OSP",
+    "lat": 50.002216456,
+    "lng": 20.160444831,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "297",
+    "name": "Zakrzów Ogrodzieniec",
+    "lat": 50.008906867,
+    "lng": 20.143129168,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "298",
+    "name": "Zakrzów OSP",
+    "lat": 50.006160575,
+    "lng": 20.143411999,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "299",
+    "name": "Zakrzów Szkoła",
+    "lat": 50.002688002,
+    "lng": 20.141856609,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Chobot Leśniczówka",
+    "lat": 50.080195532,
+    "lng": 20.352590897,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Niepołomice Na Tamie Mrówka",
+    "lat": 50.042049925,
+    "lng": 20.222475266,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "300",
+    "name": "Zakrzów Szkoła",
+    "lat": 50.00344924463846,
+    "lng": 20.14195042562801,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "301",
+    "name": "Niepołomice Droga Królewska - Grzybowa",
+    "lat": 50.02852517,
+    "lng": 20.235757573,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "302",
+    "name": "Niepołomice Droga Królewska - Grzybowa",
+    "lat": 50.028458421,
+    "lng": 20.235732587,
+    "lines": [
+      "T1"
+    ]
+  },
+  {
+    "id": "305",
+    "name": "Niepołomice Kolejowa",
+    "lat": 50.047619115,
+    "lng": 20.213573525,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Niepołomice Na Tamie Mrówka",
+    "lat": 50.042044083,
+    "lng": 20.222637579,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Niepołomice Niepołomicka",
+    "lat": 50.035980466,
+    "lng": 20.144874336,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Niepołomice Pasternik",
+    "lat": 50.040971779,
+    "lng": 20.166020011,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Niepołomice Pasternik",
+    "lat": 50.040835491,
+    "lng": 20.167096319,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Niepołomice Pilotów Przedszkole",
+    "lat": 50.02011947469995,
+    "lng": 20.20204449111921,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Niepołomice Pilotów Przedszkole",
+    "lat": 50.020106151,
+    "lng": 20.201925306,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Niepołomice Ples - Grzybowa",
+    "lat": 50.03013240266236,
+    "lng": 20.237975111112743,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Niepołomice Ples - Grzybowa",
+    "lat": 50.030209316,
+    "lng": 20.237826781,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Niepołomice Ples Przedszkole",
+    "lat": 50.03460101068029,
+    "lng": 20.239822174556224,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Niepołomice Ples Przedszkole",
+    "lat": 50.03397487557834,
+    "lng": 20.240013227863273,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Niepołomice Płaszowska",
+    "lat": 50.0308765,
+    "lng": 20.1981483,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Niepołomice Płaszowska",
+    "lat": 50.0311122,
+    "lng": 20.1979508,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Niepołomice Podgrabie",
+    "lat": 50.038938038,
+    "lng": 20.151862057,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Niepołomice Podgrabie",
+    "lat": 50.038622043,
+    "lng": 20.150270617,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Niepołomice Portowa",
+    "lat": 50.042199699935935,
+    "lng": 20.203502941526153,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Niepołomice Portowa",
+    "lat": 50.04218696840951,
+    "lng": 20.20450794061543,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Niepołomice Portowa - Jasna",
+    "lat": 50.042949059,
+    "lng": 20.178623647,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Niepołomice Portowa - Jasna",
+    "lat": 50.042974839,
+    "lng": 20.178769251,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Niepołomice Portowa - Kątek",
+    "lat": 50.040890351,
+    "lng": 20.172812179,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Niepołomice Portowa - Kątek",
+    "lat": 50.040839302,
+    "lng": 20.173156331,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Niepołomice Portowa - Skarbowa",
+    "lat": 50.043119565,
+    "lng": 20.194416298,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Niepołomice Portowa - Skarbowa",
+    "lat": 50.043018373,
+    "lng": 20.194676083,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Niepołomice Portowa - Wałowa",
+    "lat": 50.042997766,
+    "lng": 20.18429012,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Niepołomice Portowa - Wałowa",
+    "lat": 50.042867058,
+    "lng": 20.184573158,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Niepołomice Portowa Plac Zabaw",
+    "lat": 50.042314147,
+    "lng": 20.199823105,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Niepołomice Portowa Plac Zabaw",
+    "lat": 50.042228643,
+    "lng": 20.19996845,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Niepołomice Powiśle - Flisaków",
+    "lat": 50.052185546,
+    "lng": 20.230658992,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Niepołomice Powiśle - Flisaków",
+    "lat": 50.052149162,
+    "lng": 20.230990144,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Niepołomice Powiśle - Słoneczna",
+    "lat": 50.051134866,
+    "lng": 20.236330939,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Niepołomice Podgrabie Błonie",
+    "lat": 50.033501,
+    "lng": 20.14835,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Niepołomice Powiśle - Słoneczna",
+    "lat": 50.050804375,
+    "lng": 20.237083585,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Niepołomice Prosta - Powiśle",
+    "lat": 50.05136234555216,
+    "lng": 20.22657197143697,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Niepołomice Prosta - Powiśle",
+    "lat": 50.05161018562321,
+    "lng": 20.22666495032024,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Niepołomice Prosta - Słoneczna",
+    "lat": 50.046340246,
+    "lng": 20.226681479,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Niepołomice Prosta - Słoneczna",
+    "lat": 50.046747302,
+    "lng": 20.22740239,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Niepołomice Rynek",
+    "lat": 50.033350114,
+    "lng": 20.216352056,
+    "lines": [
+      "T2",
+      "T4",
+      "T1",
+      "T5",
+      "T3"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Niepołomice Słoneczna",
+    "lat": 50.04673795165564,
+    "lng": 20.246171235866345,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Niepołomice Słoneczna",
+    "lat": 50.04640021772235,
+    "lng": 20.245431340227867,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Niepołomice Słoneczna - Wroniarka",
+    "lat": 50.047815049,
+    "lng": 20.243275089,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Niepołomice Słoneczna - Wroniarka",
+    "lat": 50.048116729,
+    "lng": 20.243072674,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Niepołomice Bocheńska Apteka",
+    "lat": 50.03071418,
+    "lng": 20.221759072,
+    "lines": [
+      "T2",
+      "T1"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Niepołomice Sportowa - Torowa",
+    "lat": 50.034822824,
+    "lng": 20.149093937,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Niepołomice Suszówka Kościół",
+    "lat": 50.04140705464437,
+    "lng": 20.238643030259055,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Niepołomice Suszówka Kościół",
+    "lat": 50.041481068,
+    "lng": 20.238627336,
+    "lines": [
+      "T2"
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Niepołomice ul. Komandosów",
+    "lat": 50.020927534,
+    "lng": 20.196759847,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Niepołomice ul. Komandosów",
+    "lat": 50.020970844,
+    "lng": 20.196808676,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Niepołomice Wielicka",
+    "lat": 50.019397766,
+    "lng": 20.192223309,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Niepołomice Wielicka",
+    "lat": 50.019099429,
+    "lng": 20.191299439,
+    "lines": [
+      "T3"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Niepołomice Bocheńska Apteka",
+    "lat": 50.030941709,
+    "lng": 20.220093314,
+    "lines": [
+      "T2",
+      "T1",
+      "T5",
+      "T3"
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Niepołomice Wodna",
+    "lat": 50.0323614,
+    "lng": 20.1929191,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Niepołomice Wodna",
+    "lat": 50.0334485,
+    "lng": 20.1927233,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Podłęże Ogrodowa - Trawniki",
+    "lat": 50.016809031,
+    "lng": 20.177443292,
+    "lines": [
+      "T4",
+      "T3"
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Podłęże Ogrodowa - Trawniki",
+    "lat": 50.016846757,
+    "lng": 20.176624052,
+    "lines": [
+      "T4",
+      "T3"
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Podłęże P+R Północ",
+    "lat": 50.01851016091018,
+    "lng": 20.169666448706465,
+    "lines": [
+      "T4",
+      "T3"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Podłęże PSZOK",
+    "lat": 50.0249683,
+    "lng": 20.1717381,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Podłęże PSZOK",
+    "lat": 50.0249017,
+    "lng": 20.1715848,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Podłęże Trefl",
+    "lat": 50.0254956,
+    "lng": 20.1779388,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Podłęże Trefl",
+    "lat": 50.025483983342895,
+    "lng": 20.177810097297737,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Słomiróg Długa",
+    "lat": 49.992091072,
+    "lng": 20.168395221,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Słomiróg Długa",
+    "lat": 49.991963745,
+    "lng": 20.167969107,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Słomiróg Dom Kultury",
+    "lat": 49.992718863,
+    "lng": 20.172671044,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Słomiróg Dom Kultury",
+    "lat": 49.992608345,
+    "lng": 20.172102132,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Słomiróg Sklep",
+    "lat": 49.99230316225115,
+    "lng": 20.174945036176013,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Słomiróg Sklep",
+    "lat": 49.99215475483871,
+    "lng": 20.175551550903776,
+    "lines": [
+      "T4"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Staniątki",
+    "lat": 50.012372631,
+    "lng": 20.186776965,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Staniątki",
+    "lat": 50.012210308,
+    "lng": 20.187027963,
+    "lines": [
+      "T4",
+      "T5"
+    ]
+  }
+]

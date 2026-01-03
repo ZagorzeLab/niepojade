@@ -44,10 +44,3 @@ export async function loadAllBusLines(): Promise<Record<LineId, BusLine>> {
 
   return loadedLines
 }
-
-/**
- * Get all available line IDs from loaded data
- */
-export function getAllLineIds(busData: Record<LineId, BusLine>): LineId[] {
-  return Object.keys(busData)
-}

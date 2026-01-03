@@ -35,3 +35,8 @@ Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 .idea
+
+
+/public/data/generated/
+/public/data/gfts/
+/scripts/

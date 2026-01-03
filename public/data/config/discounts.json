@@ -1,0 +1,92 @@
+[
+    {
+        "id": "students_under_26",
+        "category": "Dzieci i młodzież szkolna oraz studenci do 26 lat",
+        "document": "Legitymacja szkolna lub studencka",
+        "discount": "100%"
+    },
+    {
+        "id": "large_family_children",
+        "category": "Dzieci z rodzin wielodzietnych",
+        "document": "Karta Dużej Rodziny",
+        "discount": "100%"
+    },
+    {
+        "id": "orphanage_residents",
+        "category": "Wychowankowie domów dziecka i placówek opiekuńczych",
+        "document": "Dokument potwierdzający status wychowanka",
+        "discount": "100%"
+    },
+    {
+        "id": "disabled_people_and_guardians",
+        "category": "Osoby z niepełnosprawnościami oraz opiekun",
+        "document": "Legitymacja lub orzeczenie o niepełnosprawności",
+        "discount": "100%"
+    },
+    {
+        "id": "over_70_years",
+        "category": "Osoby, które ukończyły 70 lat",
+        "document": "Dokument potwierdzający wiek",
+        "discount": "100%"
+    },
+    {
+        "id": "honorary_blood_donors",
+        "category": "Honorowi Dawcy Krwi",
+        "document": "Legitymacja ZHDK",
+        "discount": "100%"
+    },
+    {
+        "id": "distinguished_transplant_donors",
+        "category": "Zasłużeni Dawcy Przeszczepów",
+        "document": "Legitymacja ZDP",
+        "discount": "100%"
+    },
+    {
+        "id": "repressed_and_veterans",
+        "category": "Osoby represjonowane i weterani",
+        "document": "Legitymacja lub zaświadczenie",
+        "discount": "100%"
+    },
+    {
+        "id": "war_disabled_and_guides",
+        "category": "Inwalidzi wojenni i wojskowi oraz przewodnicy",
+        "document": "Książeczka inwalidy wojennego/wojskowego",
+        "discount": "100%"
+    },
+    {
+        "id": "blind_civil_war_victims",
+        "category": "Niewidome cywilne ofiary działań wojennych",
+        "document": "Legitymacja osoby niewidomej",
+        "discount": "100%"
+    },
+    {
+        "id": "uniformed_officers_on_duty",
+        "category": "Funkcjonariusze służb mundurowych w czasie wykonywania czynności służbowych",
+        "document": "Ważna legitymacja służbowa",
+        "discount": "100%"
+    },
+    {
+        "id": "retirees_under_70",
+        "category": "Emeryci do ukończenia 70 lat",
+        "document": "Legitymacja emeryta",
+        "discount": "50%"
+    },
+    {
+        "id": "moderate_disability",
+        "category": "Osoby z umiarkowanym stopniem niepełnosprawności",
+        "document": "Orzeczenie o stopniu niepełnosprawności",
+        "discount": "50%"
+    },
+    {
+        "id": "mild_hearing_disability",
+        "category": "Osoby z lekkim stopniem niepełnosprawności słuchu",
+        "document": "Legitymacja osoby niepełnosprawnej",
+        "discount": "50%"
+    },
+    {
+        "id": "foreign_students_under_26",
+        "category": "Uczniowie i studenci zagranicznych szkół do 26 lat",
+        "document": "Ważna karta ISIC",
+        "discount": "50%"
+    }
+]
