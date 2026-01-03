@@ -1,0 +1,20 @@
+{
+    "alerts": [
+        {
+            "id": "t3-update",
+            "type": "info",
+            "title": "Aktualizacja rozkładu",
+            "message": "Od 1 lutego obowiązuje nowy rozkład jazdy linii T3.",
+            "startDate": "2026-02-03T00:00:00",
+            "endDate": "2026-02-13T15:16:59"
+        },
+        {
+            "id": "last-bus-warning",
+            "type": "warning",
+            "title": "Ostatnie odjazdy",
+            "message": "Sprawdź godziny ostatnich kursów dzisiaj.",
+            "startDate": "2026-01-01",
+            "endDate": "2026-01-06"
+        }
+    ]
+}

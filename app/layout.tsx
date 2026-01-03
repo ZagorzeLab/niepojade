@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: "Niepojade.pl – transport intersołecki",
+    title: "Niepojade.pl – Rozkład jazdy autobusów gminnych w Niepołomicach – linie T1–T5",
     description: "Rozkłady linii T1–T5 w Niepołomicach",
     url: "https://www.niepojade.pl",
     siteName: "Niepojade.pl",
@@ -33,14 +33,14 @@ export const metadata: Metadata = {
         url: "https://www.niepojade.pl/images/niepolomice-logo-fb.png",
         width: 1200,
         height: 630,
-        alt: "Niepojade.pl – transport w Niepołomicach",
+        alt: "Niepojade.pl – Rozkład jazdy autobusów gminnych w Niepołomicach – linie T1–T5",
       },
     ],
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Niepojade.pl – transport intersołecki",
+    title: "Niepojade.pl – Rozkład jazdy autobusów gminnych w Niepołomicach – linie T1–T5",
     description: "Rozkłady linii T1–T5 w Niepołomicach",
     images: [
       "https://www.niepojade.pl/images/niepolomice-logo-fb.png",

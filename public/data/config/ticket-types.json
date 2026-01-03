@@ -1,0 +1,26 @@
+[
+    {
+        "id": "normal",
+        "type": "Bilet normalny",
+        "price": "2,00 zł",
+        "description": "Bilet jednoprzejazdowy"
+    },
+    {
+        "id": "discount",
+        "type": "Bilet ulgowy",
+        "price": "1,00 zł",
+        "description": "Dla osób uprawnionych do ulgi 50%"
+    },
+    {
+        "id": "free",
+        "type": "Bilet bezpłatny",
+        "price": "0,00 zł",
+        "description": "Dla osób uprawnionych do ulgi 100%"
+    },
+    {
+        "id": "metro",
+        "type": "Bilet metropolitalny",
+        "price": "Honorowany",
+        "description": "Ważny w II strefie, uprawnia do przejazdów liniami T1–T5 bez dodatkowych opłat."
+    }
+]

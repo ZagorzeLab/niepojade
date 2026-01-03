@@ -8,13 +8,6 @@ export interface StopSchedule {
     saturday: string[]
     sunday: string[]
   }
-  // Future-proof fields:
-  coordinates?: {
-    lat: number
-    lng: number
-  }
-  zone?: string
-  accessible?: boolean
 }
 
 export interface Direction {
@@ -28,4 +21,37 @@ export interface BusLine {
   name: string // Human-readable name (e.g., "Linia T1")
   color: string // Hex color code
   directions: Direction[]
+}
+
+export interface TicketType {
+  id: string
+  type: string
+  price: string
+  description: string
+}
+
+export interface Discount {
+  id: string
+  category: string
+  document: string
+  discount: string
+}
+
+export type AlertType = "info" | "warning"
+
+export interface AlertData {
+  id: string
+  type: AlertType
+  title: string
+  message: string
+  startDate?: string // opcjonalnie: YYYY-MM-DD
+  endDate?: string   // opcjonalnie: YYYY-MM-DD
+}
+
+export type Stop = {
+  id: string
+  name: string
+  lat: number
+  lng: number
+  lines: string[]
 }
