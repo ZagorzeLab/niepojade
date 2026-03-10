@@ -1714,6 +1714,24 @@
     ]
   },
   {
+    "id": "400",
+    "name": "Zakrzowiec Podgroble",
+    "lat": 50.00625317,
+    "lng": 20.161140184,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
+    "id": "401",
+    "name": "Zakrzowiec Podgroble",
+    "lat": 50.006213518,
+    "lng": 20.16126438,
+    "lines": [
+      "T5"
+    ]
+  },
+  {
     "id": "41",
     "name": "Niepołomice Płaszowska",
     "lat": 50.0308765,
