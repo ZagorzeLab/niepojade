@@ -11,7 +11,6 @@ interface FavoritesBarProps {
     activeLineId?: string
 }
 
-// 🔥 split: pierwsze słowo + reszta
 function splitStopName(name: string) {
     const parts = name.split(" ")
 
@@ -55,7 +54,7 @@ function FavoritesBarInner({
                         {/* ⭐ */}
                         <Star className="w-3.5 h-3.5 flex-shrink-0 text-amber-400 fill-amber-400" />
 
-                        {/* 🧠 ŚRODEK */}
+                        {/* MID */}
                         <div className="flex flex-col items-center text-center leading-tight flex-1 mx-1">
                             <span className={`text-sm font-medium ${isActive ? "text-white" : ""
                                 }`}>
@@ -70,11 +69,11 @@ function FavoritesBarInner({
                             )}
                         </div>
 
-                        {/* 🔵 LINIA */}
+                        {/* LINIE */}
                         <span
                             className={`text-[9px] font-bold px-1 py-[2px] rounded flex-shrink-0 ${isActive
-                                    ? "bg-white text-[#7c3aed]"
-                                    : "bg-purple-600 text-white"
+                                ? "bg-white text-[#7c3aed]"
+                                : "bg-purple-600 text-white"
                                 }`}
                         >
                             {fav.lineId}
