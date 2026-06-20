@@ -30,7 +30,6 @@ function StopSelectorInner({
     isFavorite = false,
     onToggleFavorite,
 }: Props) {
-    // 🔥 dropdown hook
     const {
         isOpen: isStopDropdownOpen,
         toggle: toggleDropdown,
@@ -44,7 +43,6 @@ function StopSelectorInner({
         return map
     }, [stops])
 
-    // 🔥 debounce search
     const [rawSearch, setRawSearch] = useState("")
 
     useEffect(() => {
@@ -52,7 +50,6 @@ function StopSelectorInner({
         return () => clearTimeout(t)
     }, [rawSearch, setStopSearch])
 
-    // 🔥 memo filter
     const filteredStops = useMemo(() => {
         if (!stopSearch) return stops
         return stops.filter((s) =>
@@ -65,7 +62,6 @@ function StopSelectorInner({
     const itemsRef = useRef<Array<HTMLButtonElement | null>>([])
     const [activeIndex, setActiveIndex] = useState<number>(-1)
 
-    // focus fix
     useEffect(() => {
         if (isStopDropdownOpen) {
             requestAnimationFrame(() => {
@@ -105,7 +101,7 @@ function StopSelectorInner({
                 )}
             </div>
 
-            {/* 🔥 wrapper z refem */}
+            {/* wrapper z refem */}
             <div
                 ref={stopDropdownRef}
                 className="relative"

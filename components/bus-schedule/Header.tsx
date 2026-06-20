@@ -47,7 +47,7 @@ function Header({ currentTime }: HeaderProps) {
 
             {/* Last update info */}
             <div className="text-slate-400 text-xs sm:text-sm mt-0.5">
-              Ostatnia aktualizacja rozkładów: 6 kwietnia 2026
+              Ostatnia aktualizacja rozkładów: 20 czerwca 2026
             </div>
 
             {/* Current time & date */}

@@ -44,7 +44,6 @@ function TimetableViewComponent({
   const { favorites, lastUsed, toggleFavorite, isFavorite, saveLastUsed } =
     useFavorites()
 
-  // ✅ FIX 1 — bezpieczny selectedLine
   const [selectedLine, setSelectedLine] = useState<LineId | null>(
     lineIds[0] ?? null
   )
@@ -58,7 +57,6 @@ function TimetableViewComponent({
 
   const lineData = selectedLine ? busData[selectedLine] : null
 
-  // ✅ FIX 2 — ?? zamiast ||
   const directions = lineData?.directions ?? []
   const directionData = directions[selectedDirectionIndex]
   const stops = directionData?.stops ?? []
@@ -177,7 +175,6 @@ function TimetableViewComponent({
     return "weekday"
   }, [currentTime, holidays])
 
-  // ✅ FIX 3 — prostszy useEffect
   useEffect(() => {
     setSelectedDay((prev) => prev ?? todayType)
   }, [todayType])
